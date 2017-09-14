@@ -7,3 +7,14 @@ article{
   background-color: skyblue;
   width: 300px;
 }
+
+imag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+hearder {
+    background-color: salmon;
+}
